@@ -1,4 +1,3 @@
-### Danny Meyer-Kristensen
 [![wakatime](https://wakatime.com/badge/user/47aca238-2ea3-43f5-bd15-0c12d1e28eb4.svg)](https://wakatime.com/@47aca238-2ea3-43f5-bd15-0c12d1e28eb4)
 
 <!--
