@@ -1,5 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/47aca238-2ea3-43f5-bd15-0c12d1e28eb4.svg)](https://wakatime.com/@47aca238-2ea3-43f5-bd15-0c12d1e28eb4)
+Hours of registered programming since January 2018:
 
+[![wakatime](https://wakatime.com/badge/user/47aca238-2ea3-43f5-bd15-0c12d1e28eb4.svg)](https://wakatime.com/@47aca238-2ea3-43f5-bd15-0c12d1e28eb4)
 <!--
 **dbdness/dbdness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
